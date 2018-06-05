@@ -4,5 +4,11 @@
 
 [Don Falstein] - SVP of MaX Saxe Design Smart Home Division  
 
-[MaX Falstein]: https://twitter.com/MaX_MSD
+---
+
+Companies MaX Saxe Design Smart Home products and services will work with Apple HomeKit, Crestron, Control4 and Thread products and services.
+
+Support for interoperability of other services will be added in the future.
+
+[MaX Falstein]: https://github.com/MaXFalstein
 [Don Falstein]: https://github.com/DonFalstein
